@@ -1,0 +1,7 @@
+[
+    {
+        "model":"DeepSeek-R1-Distill-Qwen-7B-GGUF",
+        "api_key":"lm-Server",
+        "base_url":"http://localhost:1234/v1"
+    }
+]
